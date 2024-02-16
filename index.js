@@ -5,7 +5,7 @@ const { Web3 } = require('web3');
 const bot = new Telegraf('6601104327:AAE78jk6bgpE0BuTkoqVae1Jw6JFMf05wWg');
 let admin;//6354552851
 admin = 1834957586;
-const url = "https://75ffbd19-5f7c-412f-a722-0318d7c60cb3-00-2rfj1e173ym99.sisko.replit.dev";
+const url = "http://62.72.24.208:3000";
 const btc_time = 2000000 //1000 = 1 secs
 const trx_time = 100000 //1000 = 1 secs
 const usdt_time= 300000 //1000 = 1 secs
